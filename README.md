@@ -1,53 +1,81 @@
-Heart Failure Prediction (Classification)
+# ❤️ Heart Failure Prediction (Classification)
 
+**Author**: Jasmine Chin  
+**Date**: 2025-06-17  
 
-project:
-  title: "Heart Failure Prediction"
-  author: Jasmine Chin
-  date: "2025-06-17"
-  description: >
-    A beginner machine learning project using logistic regression, decision trees,
-    KNN, and random forest to predict heart failure events based on clinical data.
-    This project was completed as part of my pre-university AI studies.
+---
 
-  data_source:
-    - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+## 📝 Project Description
 
-  project_structure:
-    - Heart_Failure_Prediction.ipynb
-    - README.yaml
+A beginner machine learning project using **Logistic Regression**, **Decision Trees**, **KNN**, and **Random Forest** to predict heart failure events based on clinical data.  
+This project was completed as part of my pre-university AI studies.
 
-  methods_used:
-    - Data Cleaning
-    - Feature Engineering
-    - Data Visualization
-    - Model Training
-    - Model Evaluation (accuracy, F1-score, confusion matrix)
+---
 
-  models:
-    - Logistic Regression
-    - K-Nearest Neighbors (KNN)
-    - Random Forest
+## 📊 Data Source
 
-  tools:
-    - Python
-    - pandas
-    - matplotlib
-    - seaborn
-    - scikit-learn
+- [Kaggle - Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
-  results:
-    summary: >
-      The best performing model was Random Forest, achieving a F1_score of 0.91 and
-      on the test data. Feature scaling was used to improve model performance.
+---
 
-  future_work:
-    - Explore advanced models like XGBoost or LightGBM
-    - Perform feature selection and PCA
-    - Try deep learning models
-    - Participate in Kaggle competitions for further practice
+## 📁 Project Structure
 
-  acknowledgements:
-    - This project was inspired by online ML tutorials and my preparation for university AI courses.
-    - Thanks to the Kaggle community for providing the dataset.
+- `Heart_Failure_Prediction.ipynb`  
+- `README.md`  
+- (optional) `requirements.txt`  
+
+---
+
+## ⚙️ Methods Used
+
+- Data Cleaning 🧹  
+- Feature Engineering 🏗️  
+- Data Visualization 📈  
+- Model Training 🤖  
+- Model Evaluation (Accuracy, F1-score, Confusion Matrix) ✅  
+
+---
+
+## 🧠 Models Used
+
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Random Forest  
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python 🐍  
+- pandas 🐼  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+
+---
+
+## 📈 Results
+
+> The best performing model was **Random Forest**, achieving an **F1 Score of 0.91** on the test data.  
+Feature scaling was used to improve model performance.
+
+---
+
+## 🔮 Future Work
+
+- Explore advanced models like XGBoost or LightGBM  
+- Perform feature selection and PCA  
+- Try deep learning models  
+- Participate in Kaggle competitions for further practice  
+
+---
+
+## 🙏 Acknowledgements
+
+- This project was inspired by online ML tutorials and my preparation for university AI courses.  
+- Thanks to the Kaggle community for providing the dataset.
+
+---
+
+⭐ *Thanks for visiting my project!* ⭐
 
