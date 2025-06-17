@@ -21,8 +21,7 @@ This project was completed as part of my pre-university AI studies.
 ## 📁 Project Structure
 
 - `Heart_Failure_Prediction.ipynb`  
-- `README.md`  
-- (optional) `requirements.txt`  
+- `README.md`   
 
 ---
 
