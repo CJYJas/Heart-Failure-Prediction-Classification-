@@ -1,3 +1,6 @@
+Heart Failure Prediction (Classification)
+
+
 project:
   title: "Heart Failure Prediction"
   author: Jasmine Chin
